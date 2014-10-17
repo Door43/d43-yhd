@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yhd:home|Door43 (yhd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yhd|d43-yhd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yhd/archive/master.zip|d43-yhd.zip]]
+
+**Recent Changes**
+{{changes>ns = yhd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yhd|Ethnologue data]]
+
